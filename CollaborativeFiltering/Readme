@@ -1,1 +1,6 @@
+Basic model for recommender systems works with two kinds of data:
 
+1. User-Item iteractions such as ratings (collaborative filtering models).
+2. Attribute information about the users and items such as textual profiles or relevant keywords.
+
+In this project, we build a recommendation system to predict the ratings of the movies in the MovieLens dataset using collaborative filtering.
