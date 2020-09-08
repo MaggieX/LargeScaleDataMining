@@ -11,3 +11,7 @@ This repository contains the jupyter notebook and report for the following proje
 ## Project 4: Regression Analysis
 
 ## Project 5: Popularity Prediction on Twitter
+
+## Project 6: Mining NY Social Circle Graph (code available upon request)
+
+## Project 7: Analyze Stack OverFlow posts with Spark (code available upon request)
